@@ -12,6 +12,6 @@ Godot-> [HunDun(混沌)](https://github.com/526077247/HunDun)
 
 ## GamePlay
 
-[GenshinGamePlay](https://github.com/526077247/GenshinGamePlay)
+单机-> [GenshinGamePlay](https://github.com/526077247/GenshinGamePlay)
 
-[ETPro](https://github.com/526077247/ETPro)
+联机-> [ETPro](https://github.com/526077247/ETPro)
