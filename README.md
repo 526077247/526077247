@@ -18,4 +18,4 @@ Godot-> [HunDun(混沌)](https://github.com/526077247/HunDun)
 
 ## 渲染管线
 
-Unity Forward+/Deferred Render Pipeline ->[TaoTieRP](https://github.com/526077247/TaoTieRP)
+Unity Forward+/Deferred ->[TaoTieRP](https://github.com/526077247/TaoTieRP)
